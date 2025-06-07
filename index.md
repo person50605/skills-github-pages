@@ -1,6 +1,5 @@
----
-title: Welcome to my blog!
----
 
+
+I make games.
 
 print("hello world")
